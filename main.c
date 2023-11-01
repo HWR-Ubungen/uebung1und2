@@ -13,8 +13,8 @@ int main() {
     //aufgabe4(NULL);
     //aufgabe5(NULL);
     //aufgabe6(NULL);
-    // aufgabe7(NULL);
-    //aufgabe8();
+    //aufgabe7(NULL);
+    //aufgabe8(NULL);
 }
 
 int aufgabe1() {
