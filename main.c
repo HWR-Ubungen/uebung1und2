@@ -67,6 +67,7 @@ int aufgabe2() {
         scanf("%d", &input);
         if(input == num) {
             printf("Zahl erraten\n");
+            tries++;
             printf("Rateversuche insgesamt: ");
             printf("%d", tries);
             erraten = true;
