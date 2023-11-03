@@ -209,7 +209,7 @@ int aufgabe7() {
     char array[100];
 
     printf("String eingeben: ");
-    scanf("%99s", inputString);
+    scanf("%99s", &inputString);
     strcpy(array, inputString);
 
     int l = 0;
